@@ -188,6 +188,12 @@ Meet the visionaries behind Vistara:
 <table>
   <tr>
     <td align="center">
+      <img src="https://net-worthy.web.app/assets/team/Hitesh-P.jpg" width="100px"><br>
+      <b>Hitesh P</b><br>
+      Back-end Developer, AI Integration<br>
+      <a href="https://www.linkedin.com/in/hitesh-p-aa55662a3">LinkedIn</a>
+    </td>
+    <td align="center">
       <img src="https://media.licdn.com/dms/image/v2/D5603AQHdyu_pxSv_wA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724525724964?e=1750291200&v=beta&t=YOYj6NBmQJKhQJ38PNQ3-F8uO2Klop1xY_SIsTVSi94" width="100px"><br>
       <b>Harshavardhan M</b><br>
       Back-end Developer, AI Integration<br>
@@ -198,12 +204,6 @@ Meet the visionaries behind Vistara:
       <b>Kishore S R</b><br>
       UI/UX Designer, Front-end Developer<br>
       <a href="https://www.linkedin.com/in/Kishore-SR">LinkedIn</a>
-    </td>
-    <td align="center">
-      <img src="https://net-worthy.web.app/assets/team/Hitesh-P.jpg" width="100px"><br>
-      <b>Hitesh P</b><br>
-      Back-end Developer, AI Integration<br>
-      <a href="https://www.linkedin.com/in/hitesh-p-aa55662a3">LinkedIn</a>
     </td>
     <td align="center">
       <img src="https://net-worthy.web.app/assets/team/Jeevan-N.jpg" width="100px"><br>
